@@ -1,0 +1,11 @@
+{
+  "name": "csvsort1",
+  "version": "1.0.0",
+  "description": "trying to get some data from a file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LM",
+  "license": "ISC"
+}
